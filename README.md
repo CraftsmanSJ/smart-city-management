@@ -1,35 +1,6 @@
  🚀 Smart City Management System
 
 A web-based Smart City Management System developed using **React + Vite**, designed to simulate and monitor key urban operations including public transport, smart parking, emergency response, event management, and traffic control.
-
----
-
-## 📁 Project Structure
-
-smart-city-management/
-├── public/ # Static assets
-├── src/
-│ ├── Dashboard/ # Overview dashboard and city control panels
-│ ├── Emergency 1/ # Emergency transport and response system
-│ ├── event_manage/ # City event management and scheduling
-│ ├── public_transit/ # Real-time cab/train tracking and alerts
-│ ├── smart_parking/ # Smart parking availability and tracking
-│ ├── traffic_manage/ # Traffic congestion and rerouting
-│ ├── Button.jsx # Reusable button component
-│ ├── Heading.jsx # Page heading component
-│ ├── Leftbar.jsx # Sidebar navigation
-│ ├── index.css # Global styles
-│ ├── main.jsx # Entry point
-├── index.html # Base HTML file
-├── package.json # Project metadata and dependencies
-├── vite.config.js # Vite configuration
-├── .gitignore # Git ignored files
-└── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 🌟 Features
